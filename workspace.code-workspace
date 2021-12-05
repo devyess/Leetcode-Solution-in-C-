@@ -1,20 +1,24 @@
 {
 	"folders": [
 		{
-			"path": "..\\intro_to_cpp"
-		},
-		{
-			"path": "..\\C"
-		},
-		{
 			"path": "..\\C++"
 		},
 		{
 			"path": "..\\coding bootcamp"
 		},
 		{
+			"path": "..\\python"
+		},
+		{
 			"path": "."
+		},
+		{
+			"path": "..\\intro_to_cpp"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
 }
